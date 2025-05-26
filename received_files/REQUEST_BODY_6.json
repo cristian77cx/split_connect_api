@@ -1,0 +1,302 @@
+[
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1047480155,
+        "firstName": "Maria",
+        "lastName": "Racero",
+        "bankAccountNumber": 400000126,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BBVA COLOMBIA",
+        "bankCode": 1013
+    },
+    {
+        "typeDocument": "PPT",
+        "subAccountId": 4644621,
+        "firstName": "Maria",
+        "lastName": "Villegas",
+        "bankAccountNumber": 3122098381,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "PPT",
+        "subAccountId": 5023725436,
+        "firstName": "Maria",
+        "lastName": "Villegas",
+        "bankAccountNumber": 25300005910,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1001365903,
+        "firstName": "Mariana",
+        "lastName": "Foronda",
+        "bankAccountNumber": 3243306500,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1007109493,
+        "firstName": "Mariana",
+        "lastName": "Garcia",
+        "bankAccountNumber": 3114065964,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1007976991,
+        "firstName": "Mariangel",
+        "lastName": "Cordoba",
+        "bankAccountNumber": 488428829466,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCO DAVIVIENDA SA",
+        "bankCode": 1051
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1007976991,
+        "firstName": "Mariangel",
+        "lastName": "Cordoba",
+        "bankAccountNumber": 3245532548,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1005647084,
+        "firstName": "Mario",
+        "lastName": "Ramirez",
+        "bankAccountNumber": 50951740303,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1010011811,
+        "firstName": "Mauro",
+        "lastName": "Bernal",
+        "bankAccountNumber": 3114908866,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1073251861,
+        "firstName": "Maycol",
+        "lastName": "Causil",
+        "bankAccountNumber": 11386943,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCO DE BOGOTA",
+        "bankCode": 1001
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1143950808,
+        "firstName": "Mayra",
+        "lastName": "Jimenez",
+        "bankAccountNumber": 60540347045,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1001088926,
+        "firstName": "Miyer",
+        "lastName": "Jimenez",
+        "bankAccountNumber": 19002453,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BBVA COLOMBIA",
+        "bankCode": 1013
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1053773237,
+        "firstName": "Monica",
+        "lastName": "Duque",
+        "bankAccountNumber": 7000006103,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1053773237,
+        "firstName": "Monica",
+        "lastName": "Duque",
+        "bankAccountNumber": 3147627041,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1036404891,
+        "firstName": "Natalia",
+        "lastName": "Henao",
+        "bankAccountNumber": 55686223948,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1030677188,
+        "firstName": "Natalia",
+        "lastName": "Martinez",
+        "bankAccountNumber": 56700047828,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1005910876,
+        "firstName": "Natalia",
+        "lastName": "Gonzalez",
+        "bankAccountNumber": 7941329971,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1005755387,
+        "firstName": "Nathalia",
+        "lastName": "Santos",
+        "bankAccountNumber": 488439095701,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCO DAVIVIENDA SA",
+        "bankCode": 1051
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1144181499,
+        "firstName": "Nelson",
+        "lastName": "Torres",
+        "bankAccountNumber": 3023188688,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1193066928,
+        "firstName": "Neyder",
+        "lastName": "Torres",
+        "bankAccountNumber": 55350260454,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1030678195,
+        "firstName": "Nicolas",
+        "lastName": "Acero",
+        "bankAccountNumber": 24125382265,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCO CAJA SOCIAL BCSC SA",
+        "bankCode": 1032
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1193095970,
+        "firstName": "Nicole",
+        "lastName": "Perez",
+        "bankAccountNumber": 3016938024,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1193095970,
+        "firstName": "Nicole",
+        "lastName": "Perez",
+        "bankAccountNumber": 91275250801,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1100081120,
+        "firstName": "Orlando",
+        "lastName": "Prasca",
+        "bankAccountNumber": 91246480201,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1110585647,
+        "firstName": "Oscar",
+        "lastName": "Martinez",
+        "bankAccountNumber": 3246847336,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1143979919,
+        "firstName": "Paola",
+        "lastName": "Herrera",
+        "bankAccountNumber": 3126837837,
+        "bankAccountType": "SAVINGS",
+        "bankName": "DAVIPLATA",
+        "bankCode": 1551
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1144172352,
+        "firstName": "Paola",
+        "lastName": "Osorio",
+        "bankAccountNumber": 82597293999,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCOLOMBIA",
+        "bankCode": 1007
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1118312075,
+        "firstName": "PAOLA",
+        "lastName": "PALAU",
+        "bankAccountNumber": 550488436416108,
+        "bankAccountType": "SAVINGS",
+        "bankName": "BANCO DAVIVIENDA SA",
+        "bankCode": 1051
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1110568570,
+        "firstName": "Paula",
+        "lastName": "Romero",
+        "bankAccountNumber": 3223901419,
+        "bankAccountType": "SAVINGS",
+        "bankName": "NEQUI",
+        "bankCode": 1507
+    },
+    {
+        "typeDocument": "CC",
+        "subAccountId": 1110598836,
+        "firstName": "Paula",
+        "lastName": "Capera",
+        "bankAccountNumber": 3222132073,
+        "bankAccountType": "SAVINGS",
+        "bankName": "DAVIPLATA",
+        "bankCode": 1551
+    }
+]
